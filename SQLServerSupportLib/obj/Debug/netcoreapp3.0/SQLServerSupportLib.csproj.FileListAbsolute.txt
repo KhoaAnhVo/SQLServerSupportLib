@@ -1,0 +1,13 @@
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\bin\Debug\netcoreapp3.0\SQLServerSupportLib.deps.json
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\bin\Debug\netcoreapp3.0\SQLServerSupportLib.dll
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.csprojAssemblyReference.cache
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.AssemblyInfoInputs.cache
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.AssemblyInfo.cs
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.csproj.CopyComplete
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\bin\Debug\netcoreapp3.0\SQLServerSupportLib.pdb
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.csproj.CoreCompileInputs.cache
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.dll
+C:\Users\KHOAVO\source\repos\SQLServerSupportLib\SQLServerSupportLib\obj\Debug\netcoreapp3.0\SQLServerSupportLib.pdb

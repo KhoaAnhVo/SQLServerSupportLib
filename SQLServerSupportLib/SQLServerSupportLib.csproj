@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>K:\VuLeTech\Proj_Syngenta\SourceCode\Library\GenagateQrCodeLib\ConsoleAppTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.DiagnosticSource">
+      <HintPath>K:\VuLeTech\Proj_Syngenta\SourceCode\Library\GenagateQrCodeLib\ConsoleAppTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common">
+      <HintPath>K:\VuLeTech\Proj_Syngenta\SourceCode\Library\GenagateQrCodeLib\ConsoleAppTest\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
